@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-  <img src="https://static2.klipy.com/ii/925f17378dd1893b674a723c07535afe/ee/ed/0AFQzMYE.gif" width="800" height="160" style="border-radius: 8px; object-fit: cover;">
+  <img src="[https://static2.klipy.com/ii/925f17378dd1893b674a723c07535afe/ee/ed/0AFQzMYE.gif](https://media.discordapp.net/stickers/1420284019907624981.gif?size=160&name=alien+dance+silly+&lossless=true)" width="480" height="480" style="border-radius: 8px; object-fit: cover;">
 </div>
 
 ![](./banner.svg)
