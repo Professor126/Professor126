@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center" style="position: relative; width: 100%;">
-  <img src="https://media1.tenor.com/m/ar7jYrwR4UUAAAAd/ranbir-pokemon.gif" width="100%" height="180" style="border-radius: 8px; object-fit: cover; opacity: 0.85;">
+  <img src="https://media1.tenor.com/m/ar7jYrwR4UUAAAAd/ranbir-pokemon.gif" width="480" height="480" style="border-radius: 8px; object-fit: cover; opacity: 0.85;">
   <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 32px; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); letter-spacing: 1px; width: 100%;">
     HOLA! It's me, PROFESSOR
   </div>
