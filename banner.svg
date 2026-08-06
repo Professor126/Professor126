@@ -1,0 +1,30 @@
+<svg fill="none" width="800" height="160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; }
+    .title {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      fill: url(#gif-pattern);
+      letter-spacing: 1px;
+    }
+    .subtitle {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-style: italic;
+      font-weight: 300;
+      font-size: 18px;
+      fill: #c9d1d9;
+    }
+  </style>
+
+  <defs>
+    <!-- Animated GIF fill pattern -->
+    <pattern id="gif-pattern" patternUnits="userSpaceOnUse" width="800" height="160">
+      <image href="https://static2.klipy.com/ii/925f17378dd1893b674a723c07535afe/ee/ed/0AFQzMYE.gif" x="0" y="0" width="800" height="160" preserveAspectRatio="xMidYMid slice" />
+    </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" />
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" class="title">HOLA, I'M PROFESSOR</text>
+  <text x="50%" y="74%" dominant-baseline="middle" text-anchor="middle" class="subtitle">Ain't your ordinary guy</text>
+</svg>
