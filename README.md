@@ -1,7 +1,6 @@
 # Hi there 👋
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **Professor126/Professor126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
