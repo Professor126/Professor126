@@ -1,18 +1,13 @@
 # Hi there 👋
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&fontColor=ffffff&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&background=0D111700&width=435&lines=Building+Awesome+Projects;3D+GitHub+Profiles;Always+Learning...)](https://git.io/typing-svg)
+
+## 📊 My 3D Contribution Graph
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
-<!--
-**Professor126/Professor126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Snake Animation
+![](https://raw.githubusercontent.com/Professor126/Professor126/output/github-contribution-grid-snake-dark.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
