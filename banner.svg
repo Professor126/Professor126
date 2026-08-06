@@ -20,9 +20,9 @@
     <rect width="100%" height="100%" rx="8" />
   </clipPath>
 
-  <!-- Full Background GIF -->
+  <!-- Embedded GIF Image -->
   <g clip-path="url(#card-border)">
-    <image href="https://static2.klipy.com/ii/925f17378dd1893b674a723c07535afe/ee/ed/0AFQzMYE.gif" x="0" y="0" width="800" height="160" preserveAspectRatio="xMidYMid slice" />
+    <image href="https://camo.githubusercontent.com/925f17378dd1893b674a723c07535afe/68747470733a2f2f737461746963322e6b6c6970792e636f6d2f69692f39323566313733373864643138393362363734613732336330373533356166652f65652f65642f304146517a4d59452e676966" x="0" y="0" width="800" height="160" preserveAspectRatio="xMidYMid slice" />
   </g>
 
   <!-- Text Overlay -->
