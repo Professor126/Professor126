@@ -2,9 +2,7 @@
 
 # Hey there my Cutie Nerd✨
 <div align="center">
-  <a href="https://Professor126.github.io/pixel-heart" target="_blank">
-    <img src="https://professor126.github.io/pixel-heart/" />
-  </a>
+  <img src="./heart.svg" width="180" alt="Pixel Glowing Heart" />
 </div>
 
 ![](./banner.svg)
