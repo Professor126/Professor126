@@ -1,8 +1,9 @@
 <div align="center">
 
 # Hey there my Cutie Nerd✨
+
 <div align="center">
-  <img src="heart.svg/heart.svg" width="180" alt="Pixel Glowing Heart" />
+  <img src="./pixel-heart.svg" width="180" alt="Pixel Glowing Heart" />
 </div>
 
 ![](./banner.svg)
