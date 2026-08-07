@@ -2,7 +2,7 @@
 
 # Hey there my Cutie Nerd✨
 <div align="center">
-  <img src="./heart.svg" width="180" alt="Pixel Glowing Heart" />
+  <img src="heart.svg" width="180" alt="Pixel Glowing Heart" />
 </div>
 
 ![](./banner.svg)
